@@ -1,0 +1,32 @@
+
+lesson 1 reflection...
+
+diff -u (diffrenciate between files on a linux machine) AKA FC (file compare on Windows).
+
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+The diff command helped me easily trace the bug by showing me only the lines that have been changed between the two versions...
+
+------------------------------------------------------------------------
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+By having an easy access to the entire history of a file make debbuging ,error handling, and coolaboration (between programers) on a file much easier an insight to the evolution of the file makes it far more easier to work together or even remotly on a project, debug and test new versions
+
+------------------------------------------------------------------------
+
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Multiple files saving allows the programer to save changes in a reposetory (or any group of interconnected files), for exemple a programer can commit and diff a an HTML file connected to a css stylesheet and a javascript file and review the changes in the project as a whole
+
+------------------------------------------------------------------------
+
+Q: How can you use the commands git log and git diff to view the history of files?
+
+I can use the command git log to see the listings of all the diffrent versions of the code (commits) and compare between two version (by ID) with the git diff command
+
+------------------------------------------------------------------------
+
+Q: How might using version control make you more confident to make changes that could break something?
+
+useing version control makes me much more confident in making big changes to the code by making it much more easy to identify the bug and fix it or in the worst case senerio revert to a previus version (before the bug was introduced) if i can't.  

@@ -1,0 +1,8 @@
+
+lesson 2 reflection...
+
+we've opened with creating a new git repository with the command git init then we checked the status of the repository with the command git status
+
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+a hidden .git file (the git metadata file) is added to the directory and and you can togther with git begin to sort of monitoring the evolution of the repository
