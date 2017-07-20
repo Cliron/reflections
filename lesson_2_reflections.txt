@@ -6,3 +6,7 @@ we've opened with creating a new git repository with the command git init then w
 Q: What happens when you initialize a repository? Why do you need to do it?
 
 a hidden .git file (the git metadata file) is added to the directory and and you can togther with git begin to sort of monitoring the evolution of the repository
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the staging area gives you as a programer more flexability in setting the project commits in a more logical formation, ie the staging area can help you diffrencite and bundle reletad commits. 
