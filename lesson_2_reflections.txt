@@ -16,4 +16,8 @@ Q: How can you use the staging area to make sure you have one commit per logical
 you can comepre the staging area to the working directory with the command diff --staged
 you can also comepre the the staging area to the most resent commit with the git diff command that alows you to keep track on the changes you made to your codemor easily
 
+ Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+ Branches is very useful in trying new modes or making a couple of versions and chacking out the best trying new fetures and stuff branchs makes it easy
+
  
