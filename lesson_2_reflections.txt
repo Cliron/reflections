@@ -9,4 +9,11 @@ a hidden .git file (the git metadata file) is added to the directory and and you
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-the staging area gives you as a programer more flexability in setting the project commits in a more logical formation, ie the staging area can help you diffrencite and bundle reletad commits. 
+the staging area gives you as a programer more flexability in setting the project commits in a more logical formation, ie the staging area can help you diffrencite and bundle reletad commits.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+you can comepre the staging area to the working directory with the command diff --staged
+you can also comepre the the staging area to the most resent commit with the git diff command that alows you to keep track on the changes you made to your codemor easily
+
+ 
