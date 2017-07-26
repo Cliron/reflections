@@ -30,3 +30,10 @@ I can use the command git log to see the listings of all the diffrent versions o
 Q: How might using version control make you more confident to make changes that could break something?
 
 useing version control makes me much more confident in making big changes to the code by making it much more easy to identify the bug and fix it or in the worst case senerio revert to a previus version (before the bug was introduced) if i can't.  
+
+commands used 
+
+git log
+git commit
+git diff
+git checkout
