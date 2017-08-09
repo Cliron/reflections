@@ -20,4 +20,6 @@ you can also comepre the the staging area to the most resent commit with the git
 
  Branches is very useful in trying new modes or making a couple of versions and chacking out the best trying new fetures and stuff branchs makes it easy
 
- 
+ Q: How do the diagrams help you visualize the branch structure?
+
+ diagrams makes it easier to follow along with the evolution of your project helpful to know when to commit merge or checkout
