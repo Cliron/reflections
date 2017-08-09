@@ -23,3 +23,7 @@ you can also comepre the the staging area to the most resent commit with the git
  Q: How do the diagrams help you visualize the branch structure?
 
  diagrams makes it easier to follow along with the evolution of your project helpful to know when to commit merge or checkout
+
+ Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+ the result of merging two branches together is that the marge commit will contain both commit trees but will lose all the sperate branches, the new log will contain all the commits from both branches organized according to the date & time the commits were made
