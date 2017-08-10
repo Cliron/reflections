@@ -27,3 +27,11 @@ you can also comepre the the staging area to the most resent commit with the git
  Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
  the result of merging two branches together is that the marge commit will contain both commit trees but will lose all the sperate branches, the new log will contain all the commits from both branches organized according to the date & time the commits were made
+
+ Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+ automatic merge pros, easier.
+ automatic merge cons, can result in very difficult to trace bugs .
+
+ menual merge pro, cleaner, flexible, makes it easier to spot bugs in the code 
+ menual merge cons difficult , takes more time
